@@ -1,2 +1,2 @@
 
-starting code development environment in-browser module
+Github repositories opened remotely and edited as such.
